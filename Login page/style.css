@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* #heading {
+    align-items: center;
+} */
+
+body {
+    
+    
+    
+    background-color: rgb(125, 173, 216);
+    padding: 10px;
+    align-items: center;
+}
+
+.box {
+    background-color: rgb(254, 255, 255);
+    padding: 10%;
+    display: flex;
+    
+    flex-direction: column;
+    text-align: centers;
+    align-items: center;
+    width: 500px;
+    margin: auto;
+
+}
+#logbutton
+{
+    background-color: rgb(76, 192, 238);
+    height: 30px;
+    width: 100px;
+    color: white;
+    padding: 5px 5px 10px 30px;
+    border-radius: 10%;
+    
+}
+
+a {
+    text-decoration: none;
+}
+ 
+
+
+
+/* .div img {
+    filter: saturate(50%);
+    width: 5%;
+    border: 2px solid whitesmoke;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: all ease 0.4s;
+    cursor: pointer;
+}
+
+.div img:hover {
+    filter: saturate(100%);
+    width: 20%;
+} */
